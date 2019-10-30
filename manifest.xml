@@ -9,4 +9,5 @@
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="hos" revision="master" />
 <project path="vendor/gapps-go" name="gapps-go" remote="phh" revision="master" />
 <project path="vendor/interfaces" name="vendor_interfaces" remote="phh" revision="master" />
+<project path="packages/apps/Messaging" name="HollerdOS-packages-apps-messaging" groups="hos" />
 </manifest>
